@@ -1,0 +1,50 @@
+@import "mixin";
+#scheme-Paradox .material-layout {
+    .something-else {
+        top: 0;
+        left: 0;
+        right: 0;
+        .something-else-logo {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            flex-grow: 1;
+            box-sizing: border-box;
+            background-size: cover
+        }
+        img {
+            margin-bottom: 10px;
+            width: 10pc;
+            height: 10pc;
+        }
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .daily-pic {
+        width: calc(66.67% - 16px);
+    }
+    .something-else {
+        width: calc(33.33% - 16px);
+    }
+}
+
+@media screen and (max-width:480px) {
+    #scheme-Paradox .material-layout {
+        .daily-pic {
+            top: 0;
+            margin-bottom: 24px;
+            max-height: 256px;
+        }
+        .something-else {
+            padding-left: calc(64px - 1pc);
+            position: fixed;
+            min-height: 64px;
+            height: 64px;
+            .something-else-logo, img {
+                display: none;
+            }
+        }
+    }
+}

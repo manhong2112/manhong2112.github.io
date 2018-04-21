@@ -1,0 +1,67 @@
+@import "mdl-shadow";
+@import "mixin";
+#post-toc-trigger-btn-icon {
+    color: $theme_color;
+}
+
+
+/* */
+
+#scheme-Paradox {
+    .material-layout .mdl-card {
+        border-radius: 0;
+        @include mdl-shadow--2dp;
+        transition: box-shadow .1s;
+        &:hover {
+            @include mdl-shadow--4dp;
+        }
+    }
+    #post-toc-trigger-btn {
+        left: 1pc;
+        top: calc(2pc + 48px + 1pc);
+        width: 48px;
+        height: 48px;
+    }
+    .mdl-card__supporting-text {
+        width: 100%;
+    }
+    #author-info {
+        margin-left: 1pc;
+    }
+    #author-avatar {
+        min-width: 44px;
+    }
+    .daily-pic {
+        #author-avatar {
+            min-width: 32px;
+        }
+        #author-info {
+            margin-left: 0.67pc;
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #scheme-Paradox {
+        .material-layout {
+            .mdl-card {
+                @include mdl-shadow--3dp;
+                &.something-else {
+                    @include mdl-shadow--4dp;
+                }
+            }
+            .material-index > .daily-pic {
+                min-height: 64px + 240px !important;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #scheme-Paradox .material-layout {
+        .post_entry-module {
+            transition: width 0s, margin 0s !important;
+            margin-bottom: 24px;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+@import "mdl-shadow";
+#scheme-Paradox {
+    .material-post:first-child,
+    .post-info {
+        transition: margin .15s, width .15s;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    #scheme-Paradox {
+        .material-post {
+            .post_thumbnail-random,
+            .post_thumbnail-custom {
+                height: 240px !important;
+            }
+        }
+        .material-post .post-info {
+            @include mdl-shadow--1dp;
+            border-radius: 0 !important;
+            z-index: 6;
+            background-color: #FFF;
+        }
+        .material-post:first-child {
+            margin: 0;
+        }
+    }
+}
