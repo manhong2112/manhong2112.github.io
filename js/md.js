@@ -1,1 +1,23 @@
-(function(){$(document).ready(function(){var e,r,a;e=$(".sidebar-overlay");r=$("#sidebar");a=$(".MD-burger-layer");$("#sidebar-toggle").on("click",function(){r.toggleClass("open");e.toggleClass("active");if(r.hasClass("open")){a.removeClass("MD-burger-line");return a.addClass("MD-burger-arrow")}else{a.removeClass("MD-burger-arrow");return a.addClass("MD-burger-line")}});return e.on("click",function(){r.toggleClass("open");e.toggleClass("active");a.removeClass("MD-burger-arrow");return a.addClass("MD-burger-line")})})}).call(this);
+$(document).ready(() => {
+   const overlay = $('.sidebar-overlay')
+   const sidebar = $('#sidebar')
+   const t = $('.MD-burger-layer')
+   $('#sidebar-toggle').on('click', () => {
+      sidebar.toggleClass('open')
+      overlay.toggleClass('active')
+      if (sidebar.hasClass('open')) {
+         t.removeClass('MD-burger-line')
+         t.addClass('MD-burger-arrow')
+      } else {
+         t.addClass('MD-burger-line')
+         t.removeClass('MD-burger-arrow')
+      }
+   })
+
+   overlay.on('click', () => {
+      sidebar.toggleClass('open')
+      overlay.toggleClass('active')
+      t.removeClass('MD-burger-arrow')
+      t.addClass('MD-burger-line')
+   })
+})
