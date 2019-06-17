@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://paletteOvO.moe/2019/06/16/hexo-theme/</loc>
-        <lastmod>2019-06-16T15:55:07.174Z</lastmod>
+        <lastmod>2019-06-17T17:54:33.194Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,23 +17,7 @@
 
     <url>
         <loc>https://paletteOvO.moe/2017/04/03/py-interp/</loc>
-        <lastmod>2019-06-15T15:58:22.561Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/2017/02/03/first-step/</loc>
-        <lastmod>2019-06-14T15:29:52.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/2018/04/22/kotlin-kapt/</loc>
-        <lastmod>2018-04-22T01:39:25.816Z</lastmod>
+        <lastmod>2019-06-16T16:36:43.540Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -41,7 +25,23 @@
 
     <url>
         <loc>https://paletteOvO.moe/2017/02/06/luajava-exception/</loc>
-        <lastmod>2017-02-05T16:26:04.265Z</lastmod>
+        <lastmod>2019-06-16T16:36:34.286Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/2018/04/22/kotlin-kapt/</loc>
+        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/2017/02/03/first-step/</loc>
+        <lastmod>2019-06-16T16:36:00.287Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
