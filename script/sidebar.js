@@ -1,0 +1,1 @@
+$(document).ready(()=>{$("#sidebar .switch").on("click",e=>{$("#sidebar").toggleClass("open")})});
