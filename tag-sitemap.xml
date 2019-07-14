@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://paletteOvO.moe/tags/Android/</loc>
+        <lastmod>2019-07-14T16:21:52.694Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/microG/</loc>
+        <lastmod>2019-07-14T16:21:52.694Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/Google/</loc>
+        <lastmod>2019-07-14T16:21:52.694Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://paletteOvO.moe/tags/blog/</loc>
         <lastmod>2019-06-21T10:32:52.644Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +54,6 @@
     <url>
         <loc>https://paletteOvO.moe/tags/Lisp/</loc>
         <lastmod>2019-06-16T16:36:43.540Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Android/</loc>
-        <lastmod>2019-06-16T16:36:34.286Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
