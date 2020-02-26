@@ -4,140 +4,140 @@
 
     <url>
         <loc>https://paletteOvO.moe/tags/Java/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/PowerShell/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Dotty/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Scala/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/microG/</loc>
-        <lastmod>2020-02-15T11:35:39.478Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Google/</loc>
-        <lastmod>2020-02-15T11:35:39.478Z</lastmod>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Android/</loc>
-        <lastmod>2020-02-15T11:35:39.478Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/blog/</loc>
-        <lastmod>2019-06-21T10:32:52.644Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/hexo/</loc>
-        <lastmod>2019-06-21T10:32:52.644Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Python/</loc>
-        <lastmod>2019-06-16T16:36:43.540Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Interpreter/</loc>
-        <lastmod>2019-06-16T16:36:43.540Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Lisp/</loc>
-        <lastmod>2019-06-16T16:36:43.540Z</lastmod>
+        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/luajava/</loc>
-        <lastmod>2019-06-16T16:36:34.286Z</lastmod>
+        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/lua/</loc>
-        <lastmod>2019-06-16T16:36:34.286Z</lastmod>
+        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://paletteOvO.moe/tags/annotation-processor/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
+        <loc>https://paletteOvO.moe/tags/microG/</loc>
+        <lastmod>2020-02-26T12:43:54.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://paletteOvO.moe/tags/annotation/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/android/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/kotlin/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/kapt/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
+        <loc>https://paletteOvO.moe/tags/Google/</loc>
+        <lastmod>2020-02-26T12:43:54.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Blog/</loc>
-        <lastmod>2019-06-16T16:36:00.287Z</lastmod>
+        <lastmod>2020-02-26T12:21:15.501Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/blog/</loc>
+        <lastmod>2020-02-26T12:10:24.058Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/hexo/</loc>
+        <lastmod>2020-02-26T12:10:24.058Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/annotation-processor/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/annotation/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/android/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/kotlin/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/kapt/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/Python/</loc>
+        <lastmod>2020-02-26T12:10:03.541Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/Interpreter/</loc>
+        <lastmod>2020-02-26T12:10:03.541Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/Lisp/</loc>
+        <lastmod>2020-02-26T12:10:03.541Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

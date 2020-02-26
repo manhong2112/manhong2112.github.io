@@ -8,8 +8,15 @@
     </url>
 
     <url>
+        <loc>https://paletteOvO.moe/categories/Programming/</loc>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://paletteOvO.moe/categories/Daily/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
+        <lastmod>2020-02-26T12:43:54.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

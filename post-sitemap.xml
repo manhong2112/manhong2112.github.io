@@ -9,31 +9,7 @@
 
     <url>
         <loc>https://paletteOvO.moe/2020/02/15/scala-script/</loc>
-        <lastmod>2020-02-15T11:36:24.348Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/2019/07/14/microg-playstore/</loc>
-        <lastmod>2020-02-15T11:35:39.478Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/2019/06/16/hexo-theme/</loc>
-        <lastmod>2019-06-21T10:32:52.644Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/2017/04/03/py-interp/</loc>
-        <lastmod>2019-06-16T16:36:43.540Z</lastmod>
+        <lastmod>2020-02-26T13:09:03.862Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -41,15 +17,15 @@
 
     <url>
         <loc>https://paletteOvO.moe/2017/02/06/luajava-exception/</loc>
-        <lastmod>2019-06-16T16:36:34.286Z</lastmod>
+        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://paletteOvO.moe/2018/04/22/kotlin-kapt/</loc>
-        <lastmod>2019-06-16T16:36:25.673Z</lastmod>
+        <loc>https://paletteOvO.moe/2019/07/14/microg-playstore/</loc>
+        <lastmod>2020-02-26T12:43:54.809Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,7 +33,31 @@
 
     <url>
         <loc>https://paletteOvO.moe/2017/02/03/first-step/</loc>
-        <lastmod>2019-06-16T16:36:00.287Z</lastmod>
+        <lastmod>2020-02-26T12:21:15.501Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/2019/06/16/hexo-theme/</loc>
+        <lastmod>2020-02-26T12:10:24.058Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/2018/04/22/kotlin-kapt/</loc>
+        <lastmod>2020-02-26T12:10:19.464Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/2017/04/03/py-interp/</loc>
+        <lastmod>2020-02-26T12:10:03.541Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
