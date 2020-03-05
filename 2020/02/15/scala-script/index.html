@@ -21,6 +21,9 @@ if (-not $A -or ((Get-Item $destFile).LastWriteTime -lt (Get-Item $file).LastWri
    # fsc -d $dest $file
    # for dotty
    cmd /c &quot;C:\dotty-0.22.0-RC1\bin\dotc&quot; &quot;-classpath&quot; &quot;`&quot;$sourceDirectory;$($cp -join &quot;;&quot;)`&quot;&quot; &quot;-d&quot; &quot;`&quot;$dest`&quot;&quot; &quot;`&quot;$file`&quot;&quot;
+   if(-not $?) {
+      exit
+   }
 }
 
 # faster startup (maybe)

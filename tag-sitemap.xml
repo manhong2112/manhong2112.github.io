@@ -4,35 +4,28 @@
 
     <url>
         <loc>https://paletteOvO.moe/tags/Java/</loc>
-        <lastmod>2020-03-05T05:41:29.751Z</lastmod>
+        <lastmod>2020-03-05T05:51:54.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/PowerShell/</loc>
-        <lastmod>2020-03-05T05:41:29.751Z</lastmod>
+        <lastmod>2020-03-05T05:51:54.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Dotty/</loc>
-        <lastmod>2020-03-05T05:41:29.751Z</lastmod>
+        <lastmod>2020-03-05T05:51:54.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://paletteOvO.moe/tags/Scala/</loc>
-        <lastmod>2020-03-05T05:41:29.751Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://paletteOvO.moe/tags/Android/</loc>
-        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
+        <lastmod>2020-03-05T05:51:54.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -46,6 +39,13 @@
 
     <url>
         <loc>https://paletteOvO.moe/tags/lua/</loc>
+        <lastmod>2020-02-26T12:44:16.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://paletteOvO.moe/tags/Android/</loc>
         <lastmod>2020-02-26T12:44:16.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
